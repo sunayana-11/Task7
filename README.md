@@ -51,7 +51,7 @@ Extract and visualize simple sales metrics (total quantity sold and total revenu
 ---
 
 ## 📎 Files Included
-- `sales_analysis.py` – Python script
+- `task7.py` – Python script
 - `sales_data.db` – SQLite database file
 - `sales_chart.png` – Bar chart image (auto-generated)
 
